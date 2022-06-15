@@ -9,6 +9,8 @@ Second solution :
 
 Third solution : Use the OLD injector https://cdn.discordapp.com/attachments/962288062103162952/977554372584157184/dx9injector_OLD.exe
 
+Potential solution : Open task manager > startup and disable all
+
 Fourth solution : 
 Step 1 Run Windows in safe mode 
 
