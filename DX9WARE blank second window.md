@@ -6,8 +6,12 @@ First solution : Ask them to make a brand new account and see if DX9WARE, if it 
 
 Second solution :
 Search for "Run" in windows search or do windows button + r
+
 Put this in the textbox: %appdata%\dx9ware and press ok
+
 Find dx9ware.dll and delete it
+
 Rerun DX9injector with admin permissions
+
 
 Third solution : Use Roblox on another browser and inject
