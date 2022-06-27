@@ -2,4 +2,5 @@
 - Rivatuner (UI not showing)
 - Norton (Crashing?)
 - Malwarebytes (Crashing?)
+- Riot Vanguard (Delays the injection?)
 (I don't really know why and how these affect dx9ware yet)
