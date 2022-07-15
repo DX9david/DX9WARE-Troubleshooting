@@ -13,3 +13,5 @@
 **Second scenario** : ESP does not work on the game, so does aimbot
 Send them this lovely video which will help them to make a script on the game they want to use aimbot on (https://www.youtube.com/watch?v=C6wBE2yrRoQ)
 Note : the script doesn't work on FFA games because It includes your own character in the targets
+
+**Third scenario** : Their entire DX9WARE broke, reinstall it (delete the dx9ware folder)
