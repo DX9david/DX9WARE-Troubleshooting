@@ -3,7 +3,10 @@
 boom
 # Solution 2
 
-1: Install firefox /n
+1: Install firefox
+
 2: Make a new account and play a game
+
 3: Press Alt+F4 and click go to home
+
 4: Go to settings and disable beta
