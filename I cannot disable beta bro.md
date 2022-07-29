@@ -5,7 +5,7 @@ boom
 
 1: Install firefox
 
-2: Make a new account and play a game
+2: Make a new account and play a game (On Firefox)
 
 3: Press Alt+F4 and click go to home
 
