@@ -7,12 +7,15 @@ Second solution :
 - Delete the dx9ware folder in %appdata% (WIN + R > type %appdata% and find the folder)
 - Run the dx9injector as admin
 
+DX9WARE CRASHING AFTER THE SECOND CONSOLE :
 
+Intel 12th gen igpu can cause crashes
+Turn it off in device manager
 
 Potential solution : Open task manager > startup and disable all
 
-Fourth solution : 
-Step 1 Run Windows in safe mode 
+Third solution : 
+Step 1 Run Windows in safe mode (or just disable every single services with win+r > type ms config > click services > check the checkbox to hide ms services and disable all)
 
 
 
