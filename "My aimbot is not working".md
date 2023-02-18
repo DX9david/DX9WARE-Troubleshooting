@@ -2,7 +2,7 @@
 
 **Step one** : Ask the user if their ESP is working (with show team members on), if ESP works then aimbot works
 **Step two** : Ask for a screenshot of their aimbot tab and search for the following
-- Aimlock method (Set it to hotkey as Auto confuses most users)
+- Aimlock method (Set it to hotkey as Auto cdoesn't work on third person)
 - Aim assist (Disable it)
 - Silent Aim (Disable it.)
 - Which aimlock key they are using (Show them that they need to hold that key)
