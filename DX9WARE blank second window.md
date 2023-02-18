@@ -1,10 +1,14 @@
-# Problem : The second injection window shows yellow letters only
+# Problem : The third injection window shows yellow letters only
 
 Potential solution : Roblox just updated and the user needs to wait for dx9
 
-**First solution** : Ask them to make a brand new account and see if DX9WARE, if it works then send them this video https://www.youtube.com/watch?v=i44o4P17y10&ab_channel=mechieboii
+**First solution** : Reinstall Roblox, they may have ClientSettings or other modifications in their Roblox folder. To check, ask them to send a screenshot of their Roblox installation folder https://youtu.be/jUFNztmuQvs
+
 
 **Second solution** :
+Check if they have any other exploits like Synapse X or Script-Ware (executors) and disable Auto Attach and Auto Launch
+
+**Old solution** :
 Search for "Run" in windows search or do windows button + r
 
 Put this in the textbox: %appdata%\dx9ware and press ok
@@ -14,4 +18,4 @@ Find dx9ware.dll and delete it
 Rerun DX9injector with admin permissions
 
 
-**Third solution** : Use Roblox on another browser and inject
+**Other old solution** : Use Roblox on another browser and inject
