@@ -1,7 +1,7 @@
-# Problem : DX9WARE is crashing after logging in (Third Console)
+# Problem : DX9WARE is crashing after logging in (First Console)
 *This one is very confusing beware*
 
-First solution/step : Ask if they have any exploits open or closed, disable Auto Attach features on these exploits
+First solution/step : Disable their anti virus (If they have Norton Mcafee or Avast, ask them to uninstall it for testing)
 
 OLD_Second solution :
 - Uninstall Roblox
@@ -9,7 +9,7 @@ OLD_Second solution :
 - Delete the dx9ware folder in %appdata% (WIN + R > type %appdata% and find the folder)
 - Run the dx9injector as admin
 
-DX9WARE CRASHING AFTER THE THIRD CONSOLE :
+# DX9WARE CRASHING AFTER THE THIRD CONSOLE :
 
 Intel 12th gen igpu can cause crashes
 Turn it off in device manager
