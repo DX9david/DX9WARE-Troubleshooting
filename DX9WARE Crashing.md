@@ -8,8 +8,19 @@ First solution/step : Disable their anti virus (If they have Norton Mcafee or Av
 # DX9WARE CRASHING AFTER THE THIRD CONSOLE :
 
 Make sure the console isn't blank with DX9WARE in yellow letters (Else, refer to the other guide https://github.com/DX9david/DX9WARE-Troubleshooting/blob/main/DX9WARE%20blank%20third%20window.md )
+
+Make sure they do not have any other exploits with auto attach features 
+
 Intel 12th gen igpu can cause crashes
+
 Turn it off in device manager
+
+
+
+
+
+# In depth methods (These are not to be tested in priority)
+
 
 Potential solution : Open task manager > startup and disable all
 
