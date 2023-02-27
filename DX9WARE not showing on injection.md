@@ -9,6 +9,6 @@ Second solution : Ask the user to open Control panel > Programs and features the
 Third solution : Close Riot Vanguard
 
 # (1 Console)
-Disable Windows Defender
+Disable Windows Defender and uninstall any other anti viruses
 
 Install vc_redist.x86.exe under the Visual Studio 2015, 2017 and 2019 section
