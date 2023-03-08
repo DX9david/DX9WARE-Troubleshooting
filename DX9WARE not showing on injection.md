@@ -28,3 +28,6 @@ Install vc_redist.x86.exe under the Visual Studio 2015, 2017 and 2019 section
 
 
 *(Experimental) solutions will not certainly work, but may work on some users*
+# (3 Consoles)
+Make sure they do not have Rivatuner or any drawing API/Overlays
+Make sure they don't have a second monitor activated
