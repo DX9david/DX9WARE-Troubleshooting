@@ -1,5 +1,5 @@
 # Problem : DX9WARE injection is delayed
-The 100% fix solution is to reinstall their Windows but I have gathered a special pack of bullshit solution that work sometimes!!!!
+The 100% fix solution is to reinstall their Windows but I have gathered a special pack of solution that work sometimes!!!!
 
 Solution 1 (Worked once) : 
 
