@@ -27,4 +27,4 @@ Install vc_redist.x86.exe under the Visual Studio 2015, 2017 and 2019 section
 
 
 
-(Experimental) solutions will not certainly work, but may work on some users
+*(Experimental) solutions will not certainly work, but may work on some users*
