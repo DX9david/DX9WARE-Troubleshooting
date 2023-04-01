@@ -1,4 +1,4 @@
-# Problem : The third injection window shows yellow letters only
+# Problem : The second injection window shows yellow letters only
 
 Potential solution : Roblox just updated and the user needs to wait for dx9
 
