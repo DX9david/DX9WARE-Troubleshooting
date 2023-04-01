@@ -5,7 +5,7 @@ First solution/step : Disable their anti virus (If they have Norton Mcafee or Av
 
 
 
-# DX9WARE CRASHING AFTER THE THIRD CONSOLE :
+# DX9WARE CRASHING AFTER THE SECOND CONSOLE :
 
 Make sure the console isn't blank with DX9WARE in yellow letters (Else, refer to the other guide https://github.com/DX9david/DX9WARE-Troubleshooting/blob/main/DX9WARE%20blank%20third%20window.md )
 
